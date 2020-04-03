@@ -1,0 +1,13 @@
+#grad{
+
+    height: 1100px;
+background-color: red;
+background-image: linear-gradient(to bottom right,rgb(230, 14, 32), rgb(174, 0, 255));
+}
+
+#grad1{
+
+  height: 600px;
+background-color: red;
+background-image: linear-gradient(to bottom right,rgb(230, 14, 32), rgb(174, 0, 255));
+}
